@@ -1,4 +1,39 @@
-## Hi there 👋
+<h1>Hi, I'm Engr. Benjamin! <br/><a href="https://github.com/benhost02">Cloud Security & DevSecOps Engineer</a> || <a href="https://github.com/benhost02">Software Engineer</a> || <a href="https://www.linkedin.com/benjamin-13a444109/">Cybersecurity Professional</a></h1>
+
+<h2>👨‍💻 Cloud Security Development Projects:</h2>
+
+- <b>AWS</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+ 
+<h2>👨‍💻 DevOps Development Projects:</h2>
+
+- <b>Docker</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+<h2>📺 Popular YouTube Videos</h2>
+
+- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Benjamin | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Benjamin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Benjamin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Benjamin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/
+[youtube]: https://www.youtube.com/
+[instagram]: https://www.instagram.com/
+[linkedin]: https://linkedin.com/benjamin-13a444109
 
 <!--
 **benhost02/benhost02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
