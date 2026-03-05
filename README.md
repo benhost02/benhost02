@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cloud Security Development Projects:</h2>
 
 - <b>AWS</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [AWS-Cloud-Environment-Setup-Account-Creation-Free-Tier-Access](https://github.com/benhost02/AWS-Cloud-Environment-Setup-Account-Creation-Free-Tier-Access)
  
 <h2>👨‍💻 DevOps Development Projects:</h2>
 
