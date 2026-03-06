@@ -1,19 +1,30 @@
-<h1>Hi, I'm Engr. Benjamin! <br/><a href="https://github.com/benhost02">Cloud Security & DevSecOps Engineer</a> || <a href="https://github.com/benhost02">Software Engineer</a> || <a href="https://www.linkedin.com/benjamin-13a444109/">Cybersecurity Professional</a></h1>
+<h1 align='center'>Hi, I'm Engr. Benjamin! <br/><a href="https://github.com/benhost02">Cloud Security</a> || <a href="https://github.com/benhost02">DevSecOps Engineer</a> || <a href="https://github.com/benhost02">Software Engineer</a> || <a href="https://www.linkedin.com/benjamin-13a444109/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cloud Security Development Projects:</h2>
 
 - <b>AWS</b>
-  - [AWS-Cloud-Environment-Setup-Account-Creation-Free-Tier-Access](https://github.com/benhost02/AWS-Cloud-Environment-Setup-Account-Creation-Free-Tier-Access)
- 
+  - [AWS Cloud Environment Setup Account Creation Free Tier Access](https://github.com/benhost02/AWS-Cloud-Environment-Setup-Account-Creation-Free-Tier-Access)
+
+- <b>Azure</b>
+  - [Microsoft Azure Identity Organization Setup Project](https://github.com/benhost02/Microsoft-Azure-Identity-Organization-Setup-Project/tree/main)
+  - [Hosting a Simple Website on an Azure Virtual Machine Using MobaXterm and NGINX](https://github.com/benhost02/Hosting-a-Simple-Website-on-an-Azure-Virtual-Machine-Using-MobaXterm-and-NGINX/tree/main)
+    
 <h2>👨‍💻 DevOps Development Projects:</h2>
 
 - <b>Docker</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+- <b>Kubernate</b>
+
+  
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+- <b>PHP</b>
+
+- <b>Wordpress</b>
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
@@ -22,6 +33,7 @@
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+
 
 <h2> 🤳 Connect with me:</h2>
 
