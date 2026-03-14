@@ -4,6 +4,7 @@
 
 - <b>AWS</b>
   - [AWS Cloud Environment Setup Account Creation Free Tier Access](https://github.com/benhost02/AWS-Cloud-Environment-Setup-Account-Creation-Free-Tier-Access)
+  - [Deploying a Dynamic Website on AWS EC2 WordPress Deployment](https://github.com/benhost02/Deploying-a-Dynamic-Website-on-AWS-EC2-WordPress-Deployment-)
 
 - <b>Azure</b>
   - [Microsoft Azure Identity Organization Setup Project](https://github.com/benhost02/Microsoft-Azure-Identity-Organization-Setup-Project/tree/main)
