@@ -1,4 +1,4 @@
-<h1 align='center'>Hi, I'm Engr. Benjamin! <br/><a href="https://github.com/benhost02">Cloud Security</a> || <a href="https://github.com/benhost02">DevSecOps Engineer</a> || <a href="https://github.com/benhost02">Software Engineer</a> || <a href="https://www.linkedin.com/benjamin-13a444109/">Cybersecurity Professional</a></h1>
+<h1 align='center'>Hi, I'm Engr. Benjamin! <br/><a href="https://github.com/benhost02">Cloud Security</a> || <a href="https://github.com/benhost02">DevSecOps Engineer</a> || <a href="https://github.com/benhost02">Senior Full Stack Engineer</a> || <a href="https://github.com/benhost02">Software Engineer</a> || <a href="https://www.linkedin.com/benjamin-13a444109/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cloud Security Development Projects:</h2>
 
@@ -22,10 +22,24 @@
 
 - <b>Python</b>
 
-- <b>PHP</b>
+- <b>Full Stack</b>
+  - [Benhost Nigeria Limited - Computer Base Test](https://bnl.com.ng/cbt)
+  - [Imo State College of Nursing Sciences, Orlu - Admission Portal](https://imcons.edu.ng/portal)
+  - [Imo State College of Nursing Sciences, Orlu - Result Portal](https://imcons.edu.ng/portal/checkresult.php)
+  - [Michael Okpara University of Agriculture, Umudike - Academic Content Publication System](https://imcons.edu.ng/portal)
+    
 
-- <b>Wordpress</b>
-
+    
+- <b>Wordpress Websites</b>
+  - [Hy-Tech Voltra Technology LLC](https://hytechvoltra.com)
+  - [Prinseprime Ltd Uk](https://princeprime.co.uk)
+  - [Federal Polytechnic, Ukana](https://fedpolyukana.edu.ng)
+  - [St. Mary's Joint Hospital](https://stmjointhospital.com.ng)
+  - [Benhost Nigeria Limited](https://benhost.com.ng)
+  - [Imo State College of Nursing Sciences, Orlu](https://imcons.edu.ng)
+  - [Bayelsa State Polytechnic](https://bayelsastatepoly.edu.ng)
+  - [Federal Polytechnic, Bali](https://fedpolybali.edu.ng)
+  - [Ambrose Alli University](https://aauekpoma.edu.ng)
 
 <h2>📺 Popular YouTube Videos</h2>
 
