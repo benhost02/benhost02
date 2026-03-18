@@ -20,8 +20,6 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Python</b>
-
 - <b>Full Stack</b>
   - [Benhost Nigeria Limited - Computer Base Test](https://bnl.com.ng/cbt)
   - [Imo State College of Nursing Sciences, Orlu - Admission Portal](https://imcons.edu.ng/portal)
