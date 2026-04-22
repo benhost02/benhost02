@@ -1,4 +1,4 @@
-<h1 align='center'>Hi, I'm Engr. Benjamin! <br/><a href="https://github.com/benhost02">Cloud Security</a> || <a href="https://github.com/benhost02">DevSecOps Engineer</a> || <a href="https://github.com/benhost02">Senior Full Stack Engineer</a> || <a href="https://github.com/benhost02">Software Engineer</a> || <a href="https://www.linkedin.com/benjamin-13a444109/">Cybersecurity Professional</a></h1>
+<h1 align='center'>Hi, I'm Engr. Benjamin! <br/><a href="https://github.com/benhost02">Cloud Security</a> || <a href="https://github.com/benhost02">DevSecOps Engineer</a> || <a href="https://github.com/benhost02">Senior Full Stack Engineer</a> || <a href="https://www.linkedin.com/benjamin-13a444109/">Penetration Tester</a></h1>
 
 <h2>👨‍💻 Cloud Security Development Projects:</h2>
 
@@ -13,9 +13,12 @@
 <h2>👨‍💻 DevOps Development Projects:</h2>
 
 - <b>Docker</b>
-
+  - [Deploying a Full-Stack Website for Movie Studio - Frontend (React) ](https://github.com/Cloud-Security-and-DevOps-Engineer/movieapp_frontend)
+  - [Deploying a Full-Stack Website for Movie Studio - Backend (JAVA) ](https://github.com/Cloud-Security-and-DevOps-Engineer/movieapp_backend)
 - <b>Kubernate</b>
-
+  - [Deployment of a bank app using K8s ](https://github.com/benhost02/kubernetes-manifest/tree/main)
+- <b>Terraform</b>
+  - [AWS Three Tier Terraform Deploy ](https://github.com/benhost02/aws-three-tier-terraform-deploy)
   
 
 <h2>👨‍💻 Software Development Projects:</h2>
@@ -39,6 +42,14 @@
   - [Federal Polytechnic, Bali](https://fedpolybali.edu.ng)
   - [Ambrose Alli University](https://aauekpoma.edu.ng)
 
+<h2>📺 My YouTube Training Videos</h2>
+
+- [Deploy Fullstack App to Docker Hub & AWS EC2 Step by Step Tutorial](https://youtu.be/MCCKVP91cwY?si=blK1taBRlqXUowCb)
+- [AWS ECR Fullstack Deployment Tutorial Docker and CICD Explained](https://youtu.be/be19HHfYROE?si=veX8ZK4a94NK6yZB)
+- [Creating and deploying fullstack software image on AWS ECR (Using Github, Docker and CI/CD)](https://youtu.be/yCNmBm_F8ws?si=r1Yg4rpCQjA-aHFD)
+- [Training on Docker Container and deployment of Wordpress using docker container](https://youtu.be/_JQNpj394q4?si=8UwRbY0dCd60L9JG)
+- [Deployment of a Dynamic Website in AWS EC2 Instance (Wordpress)](https://youtu.be/KRjmRAVNJX8?si=uFUPjsPt8_OoVqpy)
+
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
@@ -56,7 +67,7 @@
 [<img align="left" alt="Benjamin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/
-[youtube]: https://www.youtube.com/
+[youtube]: https://www.youtube.com/channel/UCxD8YOSL45zHVVw37M9EYBw
 [instagram]: https://www.instagram.com/
 [linkedin]: https://linkedin.com/benjamin-13a444109
 
