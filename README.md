@@ -67,7 +67,7 @@
 [<img align="left" alt="Benjamin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/
-[youtube]: https://www.youtube.com/channel/UCxD8YOSL45zHVVw37M9EYBw
+[youtube]: https://www.youtube.com/@Engr.BenjaminNetwork
 [instagram]: https://www.instagram.com/
 [linkedin]: https://linkedin.com/benjamin-13a444109
 
